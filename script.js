@@ -103,8 +103,7 @@ const allProducts = [
   { code: "2400-000553", name: "CABLE VGA 20 MTS - CCTV" },
   { code: "3419-000265", name: "COMUNICADOR GPRS 3G - NANOCOMM-GSM" },
   { code: "3419-000214", name: "COMUNICADOR TYCO CODIGO NUEVO" },
-  { code: "3419-000217", name: '<span>COMUNICADOR TYCO <span style="color: red;">CODIGO VIEJO</span></span>'
-},
+  { code: "3419-000217", name: "COMUNICADOR TYCO CODIGO VIEJO"},
   { code: "3361-000640", name: "DVR DE 16 CANALES DAHUA" },
   { code: "3361-000603", name: "DVR DE 16 CANALES HIKVISION" },
   { code: "3361-000641", name: "DVR DE 8 CANALES DAHUA" },
