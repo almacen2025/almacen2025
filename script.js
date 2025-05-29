@@ -61,7 +61,8 @@ const allProducts = [
   { code: "3412-000173", name: "BX-80N INALAMBRICO - OPTEX" },
   { code: "3401-000179", name: "CENTRAL NX-4 CADDX" },
   { code: "3850-000277", name: "CENTRAL NX-8 CADDX" },
-  { code: "3402-000121", name: "CONTROL REMOTO ENCRYPTOR  HONEYWELL" },
+  { code: "3402-000121", name: "CONTROL REMOTO ENCRYPTOR CADDX" },
+  { code: "3402-000119", name: "CONTROL REMOTO ENCRYPTOR 3 HONEYWELL" },
   { code: "2351-000512", name: "EXPANSOR DE FUENTE NX-320 CADDX" },
   { code: "3401-000232", name: "EXPANSOR DE ZONAS NX-216 CADDX" },
   { code: "3403-000155", name: "TECLADO NX-148 - CADDX" },
@@ -102,8 +103,15 @@ const allProducts = [
   { code: "2400-000553", name: "CABLE VGA 20 MTS - CCTV" },
   { code: "3419-000265", name: "COMUNICADOR GPRS 3G - NANOCOMM-GSM" },
   { code: "3419-000214", name: "COMUNICADOR TYCO CODIGO NUEVO" },
-  { code: "3419-000217", name: "COMUNICADOR TYCO CODIGO VIEJO" },
- 
+  { code: "3419-000217", name: '<span>COMUNICADOR TYCO <span style="color: red;">CODIGO VIEJO</span></span>'
+},
+  { code: "3361-000640", name: "DVR DE 16 CANALES DAHUA" },
+  { code: "3361-000603", name: "DVR DE 16 CANALES HIKVISION" },
+  { code: "3361-000641", name: "DVR DE 8 CANALES DAHUA" },
+  { code: "3361-000604", name: "DVR DE 8 CANALES HIKVISION" },
+  { code: "3361-000604", name: "DVR DE 8 CANALES HIKVISION" },
+  { code: "3354-000259", name: "BALUM " }
+   
 ]
 
 document.getElementById("searchInput").addEventListener("input", function () {
