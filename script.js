@@ -98,7 +98,7 @@ const allProducts = [
   { code: "2450-000378", name: "GABINETE ESTANCO 460X520X180 - ROKER" },
   { code: "2400-000553", name: "CABLE VGA 20 MTS - CCTV" },
   { code: "3419-000265", name: "COMUNICADOR GPRS 3G - NANOCOMM-GSM" }
-  
+ 
 ]
 
 document.getElementById("searchInput").addEventListener("input", function () {
