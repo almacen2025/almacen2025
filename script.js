@@ -51,7 +51,7 @@ const allProducts = [
   { code: "2351-000457", name: "FUENTE 12V 5A 4C PARA CAMARA - CCTV" },
   { code: "3363-000023", name: "LENTE CAMARA FRONTAL - HIKVISION HV3816D-8MPIR" },
   { code: "3412-000174", name: "DETECTOR INALAMBRICO VX-402R/VXI-R/VXS-RAM - OPTEX" },
-  { code: "3411-000281", name: "DETECTOR ANTIMASKING ES HX-40AM - OPTEX" },
+  { code: "3411-000240", name: "DETECTOR CON ANTIMASKING" },
   { code: "3411-000131", name: "DETECTOR EXTERIOR CABLEADO VX-402/VXI-ST/VXS-AM - OPTEX" },
   { code: "2403-000106", name: "DETECTOR LATERAL CABLEADO BX-80N/BXS-ST - OPTEX" },
   { code: "3412-000173", name: "DETECTOR LATERAL INALAMBRICO BX-80NR/BXS-R - OPTEX" },
@@ -92,9 +92,8 @@ const allProducts = [
   { code: "2900-000042", name: "NUEVA SIM MOVISTAR M2M (CLIMAX, NEO, COMUNICADOR, RSI, GPS, GPRS, GSM, ajax)" },
   { code: "2900-000043", name: "NUEVA SIM PERSONAL M2M (CLIMAX)" },
   { code: "3413-000089", name: "BASE DETECTOR SISMICO ISN50" },
-  { code: "3413-000092", name: "DETECTOR SISMICO CON BASE" },
-  { code: "3411-000240", name: "DETECTOR CON ANTIMASKING" }
-
+  { code: "3413-000092", name: "DETECTOR SISMICO CON BASE" }
+  
 ]
 
 document.getElementById("searchInput").addEventListener("input", function () {
