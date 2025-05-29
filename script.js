@@ -90,7 +90,7 @@ const allProducts = [
   { code: "3403-000149", name: "TECLADO RECEPTOR 6160RF - HONEYWELL" }
   { code: "2900-000038", name: "NUEVA SIM GPRS CLARO" },
   { code: "2900-000042", name: "NUEVA SIM MOVISTAR M2M" },
-  { code: "2900-000043", name: "NUEVA SIM PERSONAL M2M (CLIMAX)" }
+  { code: "2900-000043", name: "NUEVA SIM PERSONAL M2M (CLIMAX)" },
 
 ]
 
