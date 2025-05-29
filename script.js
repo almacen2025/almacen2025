@@ -92,7 +92,8 @@ const allProducts = [
   { code: "2900-000042", name: "NUEVA SIM MOVISTAR M2M (CLIMAX, NEO, COMUNICADOR, RSI, GPS, GPRS, GSM, ajax)" },
   { code: "2900-000043", name: "NUEVA SIM PERSONAL M2M (CLIMAX)" },
   { code: "3413-000089", name: "BASE DETECTOR SISMICO ISN50" },
-  { code: "3413-000092", name: "DETECTOR SISMICO CON BASE" }
+  { code: "3413-000092", name: "DETECTOR SISMICO CON BASE" },
+  { code: "3411-000240", name: "DETECTOR CON ANTIMASKING" }
 
 ]
 
