@@ -88,6 +88,10 @@ const allProducts = [
   { code: "3403-000157", name: "TECLADO 6148 - HONEYWELL" },
   { code: "3403-000147", name: "TECLADO INALAMBRICO 5828V - HONEYWELL" },
   { code: "3403-000149", name: "TECLADO RECEPTOR 6160RF - HONEYWELL" },
+  { code: "2900-000038", name: "NUEVA SIM GPRS CLARO" },
+  { code: "2900-000042", name: "NUEVA SIM MOVISTAR M2M (CLIMAX, NEO, COMUNICADOR, RSI, GPS, GPRS, GSM, ajax)" },
+  { code: "2900-000043", name: "NUEVA SIM PERSONAL M2M (CLIMAX)" },
+
 
 ]
 
