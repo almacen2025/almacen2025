@@ -94,8 +94,6 @@ const allProducts = [
   { code: "3413-000089", name: "BASE DETECTOR SISMICO ISN50" },
   { code: "3413-000092", name: "DETECTOR SISMICO CON BASE" }
 
-
-
 ]
 
 document.getElementById("searchInput").addEventListener("input", function () {
