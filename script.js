@@ -100,7 +100,9 @@ const allProducts = [
   { code: "3406-000057", name: "MAGNETICO DE PUERTA COMUN" },
   { code: "2450-000378", name: "GABINETE ESTANCO 460X520X180 - ROKER" },
   { code: "2400-000553", name: "CABLE VGA 20 MTS - CCTV" },
-  { code: "3419-000265", name: "COMUNICADOR GPRS 3G - NANOCOMM-GSM" }
+  { code: "3419-000265", name: "COMUNICADOR GPRS 3G - NANOCOMM-GSM" },
+  { code: "3419-000214", name: "COMUNICADOR TYCO CODIGO NUEVO" },
+  { code: "3419-000217", name: "COMUNICADOR TYCO CODIGO VIEJO" },
  
 ]
 
