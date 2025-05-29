@@ -108,7 +108,6 @@ const allProducts = [
   { code: "3361-000603", name: "DVR DE 16 CANALES HIKVISION" },
   { code: "3361-000641", name: "DVR DE 8 CANALES DAHUA" },
   { code: "3361-000604", name: "DVR DE 8 CANALES HIKVISION" },
-  { code: "3361-000604", name: "DVR DE 8 CANALES HIKVISION" },
   { code: "3354-000259", name: "BALUM " }
    
 ]
