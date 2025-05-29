@@ -95,7 +95,8 @@ const allProducts = [
   { code: "3413-000092", name: "DETECTOR SISMICO CON BASE" },
   { code: "3411-000240", name: "DETECTOR CON ANTIMASKING" },
   { code: "3406-000057", name: "MAGNETICO DE PUERTA COMUN" },
-  { code: "2450-000378", name: "GABINETE ESTANCO 460X520X180 - ROKER" }
+  { code: "2450-000378", name: "GABINETE ESTANCO 460X520X180 - ROKER" },
+  { code: "2400-000553", name: "CABLE VGA 20 MTS - CCTV" }
   
 ]
 
