@@ -61,7 +61,6 @@ const allProducts = [
   { code: "3412-000173", name: "BX-80N INALAMBRICO - OPTEX" },
   { code: "3401-000179", name: "CENTRAL NX-4 CADDX" },
   { code: "3850-000277", name: "CENTRAL NX-8 CADDX" },
-  { code: "3402-000121", name: "CONTROL REMOTO ENCRYPTOR CADDX" },
   { code: "3402-000119", name: "CONTROL REMOTO ENCRYPTOR 3 HONEYWELL" },
   { code: "2351-000512", name: "EXPANSOR DE FUENTE NX-320 CADDX" },
   { code: "3401-000232", name: "EXPANSOR DE ZONAS NX-216 CADDX" },
