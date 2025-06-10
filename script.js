@@ -113,6 +113,7 @@ const allProducts = [
   { code: "3417-000137", name: "SIRENA EXTERIOR MP400 ALONSO" },
   { code: "3417-000141", name: "SIRENA INTERIOR MP100 ALONSO" },
   { code: "3407-000122", name: "DETECTOR SEMI EXTERIOR OD850 BOSCH" },
+  { code: "3402-000122", name: "RECEPTOR ENCRYPTOR  CE3" },
   { code: "3354-000259", name: "BALUM " }
    
 ]
