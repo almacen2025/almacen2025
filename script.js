@@ -110,6 +110,8 @@ const allProducts = [
   { code: "3361-000604", name: "DVR DE 8 CANALES HIKVISION" },
   { code: "3415-000184", name: "PULSADOR SIN RETENCION PB-1" },
   { code: "3411-000105", name: "DETECTOR DOBLE TECNOLOGIA" },
+  { code: "3417-000137", name: "SIRENA EXTERIOR MP400 ALONSO" },
+  { code: "3417-000141", name: "SIRENA INTERIOR MP100 ALONSO" },
   { code: "3354-000259", name: "BALUM " }
    
 ]
