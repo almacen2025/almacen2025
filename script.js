@@ -114,7 +114,7 @@ const allProducts = [
   { code: "3407-000122", name: "DETECTOR SEMI EXTERIOR OD850 BOSCH" },
   { code: "3402-000122", name: "RECEPTOR ENCRYPTOR  CE3" },
   { code: "3354-000259", name: "BALUM " }
-   
+  { code: "3002-000070", name: "ROUTER 4 SALIDAS" } 
 ]
 
 document.getElementById("searchInput").addEventListener("input", function () {
