@@ -116,8 +116,8 @@ const allProducts = [
   { code: "3354-000259", name: "BALUM " },
   { code: "3002-000070", name: "ROUTER 4 SALIDAS" },
   { code: "3405-000196", name: "MAGNETICO DE PORTON" },
-  { code: "3406-000054", name: "TRANSMISOR MAGNETICO DC-29 CLIMAX sin bornera},
-  { code: "2450-000382", name: "Caja estanco IP65 115x115x110" }
+  { code: "3406-000054", name: "TRANSMISOR MAGNETICO DC-29 CLIMAX sin bornera"},
+  { code: "2450-000382", name: "Caja estanco IP65 115x115x110"}
 ]
 
 document.getElementById("searchInput").addEventListener("input", function () {
