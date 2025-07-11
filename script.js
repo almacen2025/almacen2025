@@ -118,7 +118,8 @@ const allProducts = [
   { code: "3405-000196", name: "MAGNETICO DE PORTON" },
   { code: "3406-000054", name: "TRANSMISOR MAGNETICO DC-29 CLIMAX sin bornera"},
   { code: "2450-000382", name: "Caja estanco IP65 115x115x110"},
-  { code: "3901-000010", name: "MP300 SIRENA DE EXTERIOR sin bateria"}
+  { code: "3901-000010", name: "MP300 SIRENA DE EXTERIOR sin bateria"},
+  { code: "3412-000199", name: "OUTDOOR PIRCAM climax"}
 ]
 
 document.getElementById("searchInput").addEventListener("input", function () {
